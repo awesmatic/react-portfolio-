@@ -17,7 +17,7 @@ const greeting = {
   subTitle:
     "Full Stack Developer. Always learning.",
   resumeLink:
-    "https://drive.google.com/file/d/13FbRijq_RBB1Oc65y35p9fmNdRxTa2ru/view",
+    "https://drive.google.com/file/d/1GvuSnkSWZD9C17V8fCiWYYZr3_RFAcil/view?usp=share_link",
   mail: "mailto:saurabhrauthan4@gmail.com",
 };
 
@@ -175,7 +175,7 @@ const experience = {
           company: "Buyproperly",
           company_url: "https://quicko.com/",
           logo_path: "buyproperly.png",
-          duration: "August 2022 - April 2021",
+          duration: "August 2022 - April 2023",
           location: "Work From Home",
           description:
             "BuyProperly is an AI driven online exchange for fractional alternate asset investments such as Real Estate.",
@@ -223,14 +223,42 @@ const contactPageData = {
 const projects = {
   data: [
     {
-      name: "",
-      url: "",
+      name: "Clothing Website",
+      url: "https://reactclothswebsite.netlify.app/",
       description:
-        "",
+        "This is a clothing store website built with React and Redux, offering an intuitive interface to browse and purchase clothing items. With a variety of categories and secure checkout, it's a convenient and enjoyable shopping experience.",
       languages: [
         {
-          name: "",
-          iconifyClass: "",
+          name: "ReactJS",
+          iconifyClass: "logos-react",
+        },
+        {
+          name: "Redux",
+          iconifyClass: "logos-redux",
+        },
+      ],
+    },
+    {
+      name: "Todo List",
+      url: "https://to-do-list-a6ba2.web.app/",
+      description:
+        "This is a to-do list app built with React, featuring CRUD (Create, Read, Update, and Delete) operations. With this app, you can easily create, view, edit, and delete your to-do items with just a few clicks.",
+      languages: [
+        {
+          name: "ReactJS",
+          iconifyClass: "logos-react",
+        },
+      ],
+    },
+    {
+      name: "Weather App",
+      url: "https://weather-app-using-react-d258a.web.app/",
+      description:
+        "This is a weather app built with React and an API, allowing you to easily view current weather conditions and forecasts for any location. Stay informed about the weather with just a few clicks.",
+      languages: [
+        {
+          name: "ReactJS",
+          iconifyClass: "logos-react",
         },
       ],
     },
