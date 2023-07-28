@@ -11,13 +11,13 @@ const settings = {
 const greeting = {
   title: "Hello.",
   title2: "Saurabh",
-  logo_name: "Saurabh()",
+  logo_name: "Saurabh();",
   nickname: "Saurabh",
   full_name: "Saurabh Singh",
   subTitle:
     "Full Stack Developer. Always learning.",
   resumeLink:
-    "https://drive.google.com/file/d/1GvuSnkSWZD9C17V8fCiWYYZr3_RFAcil/view?usp=share_link",
+    "https://drive.google.com/file/d/1-kwOOzI_42tHPP480QYPk50EFShSbVZq/view?usp=drive_link",
   mail: "mailto:saurabhrauthan4@gmail.com",
 };
 
